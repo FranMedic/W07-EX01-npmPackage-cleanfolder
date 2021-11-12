@@ -8,6 +8,10 @@
     "start": "node ."
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "frannyMedic",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "debug": "^4.3.2"
+  }
 }
